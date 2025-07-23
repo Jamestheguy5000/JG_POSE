@@ -1,0 +1,17 @@
+Application Tasks
+
+1) Incorporate Face detecting and gesture control
+
+
+Maintenance Tasks
+
+1) Create experiments directory for all experiments
+So under experiments, we have 3 types
+ 
+	i) Audio experiments - only audio
+	ii) Video experiments - only video
+	iii) Audio Visual - experimentation with both
+	iv) Any new experiments
+
+2) Migrate scripts without breaking them
+ 
